@@ -12,17 +12,20 @@ Used
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=CSS3&logoColor=white" />   
-     
+<br>
+
 <img src="https://img.shields.io/badge/nodejs-339933?style=flat&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/socketdotio-010101?style=flat&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=CSS3&logoColor=white" />
+<br>
+
 <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/express-000000?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
 </div>
 
 ---
