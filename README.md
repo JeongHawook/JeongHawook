@@ -13,6 +13,7 @@ Language
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saroball3)](https://solved.ac/saroball3/)
+---
 정리 전 기록
 [Blog](https://hawook.notion.site/2a87f9eb4dfd47e0b96f4d14a5b583f8)
 
